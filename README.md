@@ -6,7 +6,7 @@
 
 ### Cloner le projet:
 ```
-git clone https://github.com/OpenClassrooms-Student-Center/Billed-app-FR-Back.git
+git clone https://github.com/samarkand-fr/Billed_P9_backend.git
 ```
 
 ### Acceder au repertoire du projet :
@@ -52,7 +52,7 @@ mot de passe : employee
 
 ### Clone the projet:
 ```
-git clone https://github.com/OpenClassrooms-Student-Center/Billed-app-FR-Back.git
+git clone https://github.com/samarkand-fr/Billed_P9_backend.git
 ```
 
 ### Go to the project directory :
